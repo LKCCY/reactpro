@@ -8,7 +8,7 @@
 + 图片同步显示通过操作File对象实现，代替以往的iframe上传。通过FileReader，读取File内容（base64)。
 + Formdata对象将数据编译为键值对，之后通过XMLHttpRequest上传。通过onprogress监测上传进度。
 + 图片裁切通过react-cropper实现。裁切完后将File对象转换为Blob对象。
-+ 响应式布局通过百分比和媒体布局实现。为适应
++ 响应式布局通过百分比和媒体布局实现。为适应响应式，重新封装'手风琴'轮播图。
 
 ![](https://github.com/LKCCY/reactpro-one/blob/master/images/m1.gif)
 
