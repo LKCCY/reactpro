@@ -1,6 +1,6 @@
 ## react单页面
 ### 技术栈
-+ react dva node webpack react-router-redux react-cropper react-masonry-component
++ react dva node webpack react-router-dom react-cropper react-masonry-component
 ### 项目描述
 + 页面为响应式页面，主要实现了图片的裁切，上传，和瀑布流展示
 + 后端通过node实现。
